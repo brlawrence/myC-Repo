@@ -1,0 +1,14 @@
+/Users/richardb/Documents/MyRepo/Practice_Codes/mySort/bin/Debug/net8.0/mySort
+/Users/richardb/Documents/MyRepo/Practice_Codes/mySort/bin/Debug/net8.0/mySort.deps.json
+/Users/richardb/Documents/MyRepo/Practice_Codes/mySort/bin/Debug/net8.0/mySort.runtimeconfig.json
+/Users/richardb/Documents/MyRepo/Practice_Codes/mySort/bin/Debug/net8.0/mySort.dll
+/Users/richardb/Documents/MyRepo/Practice_Codes/mySort/bin/Debug/net8.0/mySort.pdb
+/Users/richardb/Documents/MyRepo/Practice_Codes/mySort/obj/Debug/net8.0/mySort.GeneratedMSBuildEditorConfig.editorconfig
+/Users/richardb/Documents/MyRepo/Practice_Codes/mySort/obj/Debug/net8.0/mySort.AssemblyInfoInputs.cache
+/Users/richardb/Documents/MyRepo/Practice_Codes/mySort/obj/Debug/net8.0/mySort.AssemblyInfo.cs
+/Users/richardb/Documents/MyRepo/Practice_Codes/mySort/obj/Debug/net8.0/mySort.csproj.CoreCompileInputs.cache
+/Users/richardb/Documents/MyRepo/Practice_Codes/mySort/obj/Debug/net8.0/mySort.dll
+/Users/richardb/Documents/MyRepo/Practice_Codes/mySort/obj/Debug/net8.0/refint/mySort.dll
+/Users/richardb/Documents/MyRepo/Practice_Codes/mySort/obj/Debug/net8.0/mySort.pdb
+/Users/richardb/Documents/MyRepo/Practice_Codes/mySort/obj/Debug/net8.0/mySort.genruntimeconfig.cache
+/Users/richardb/Documents/MyRepo/Practice_Codes/mySort/obj/Debug/net8.0/ref/mySort.dll
